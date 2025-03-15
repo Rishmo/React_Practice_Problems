@@ -19,6 +19,7 @@ import './index.css';
 // import LoginRegistration from './LoginRegistration';  // Import LoginRegistration component
 
 // import WeatherApp from './WeatherApp'; 
+
 import SearchBar from './SearchBar';
 const items = ["item1", "item2", "item3", "item4", "item5","Another Item", "Yet Another Item", "One More Item"];
 
